@@ -1,2 +1,2 @@
-# Project1
- Electric power consumption
+## Electric power consumption visualization in R
+ 
